@@ -7,3 +7,4 @@
 * Lucas Oliveira dos Santos - 37.870.978-1
 * Marcos Aurelio Fabricio - MG-8.148.986
 * William Roberto dos Santos Pereira - 43.681.396-8
+

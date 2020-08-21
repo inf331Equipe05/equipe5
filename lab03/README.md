@@ -1,7 +1,7 @@
 # INF331 - Componentização e Reuso de Software Conceitos e Práticas (2020)
 
 ## Tarefa 01
-[images/Tarefa01.png](images/Tarefa01.png)
+![images/Tarefa01.png](images/Tarefa01.png)
 
 
 ## Tarefa 02
@@ -13,4 +13,4 @@
 5. Os tres menores preços serão apresentados e obedecendo o critério de classificação/desempate. (Forncedor com menor preço) 
 6. O código de rastreio será enviado após a escolha do fornecedor. (Código Rastreio)
 
-[images/Tarefa02.png](images/Tarefa02.png)
+![images/Tarefa02.png](images/Tarefa02.png)

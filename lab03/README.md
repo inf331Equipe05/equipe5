@@ -5,7 +5,7 @@
 
 
 ## Tarefa 02
-
+<br>
 1. O processo se inicia no componente "Solicita Produto" onde o comprador escolhe o que deseja comprar. (Solicita Produto)
 2. O componente leilão se encarrega de gerenciar as mensagens dos componentes no barramento. (Leilão)
 3. Selecionar fornecedores elegiveis a fornecer o produto solicitado. (Seleciona Fornecedores)
